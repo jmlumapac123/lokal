@@ -1,4 +1,4 @@
-# lokal_Django_Project_Ecommerce_v1
+# LoKal_Django_Project_Ecommerce_v1
 
 ## Instructions
 
